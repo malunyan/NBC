@@ -7,7 +7,7 @@
 </head>
 <body>
   <div class="header">
-    <div class="header-left">日本ビール株式会社/div>
+    <div class="header-left">日本ビール株式会社</div>
     <div class="header-right">
       <ul>
         <li>会社概要</li>
