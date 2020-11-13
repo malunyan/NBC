@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Progate</title>
+  <title>日本ビール株式会社</title>
   <link rel="stylesheet" type="text/css" href="stylesheet.css">
 </head>
 <body>
